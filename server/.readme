@@ -1,0 +1,12 @@
+first npm install 
+create .env file 
+
+add your all this details
+MONGO_URI=
+JWT_SECRET=
+STRIPE_SECRET_KEY=your_stripe_secret_key
+EMAIL_USERNAME=
+EMAIL_PASSWORD=
+
+
+now to run = node server.js
